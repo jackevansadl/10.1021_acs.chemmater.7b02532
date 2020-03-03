@@ -1,4 +1,4 @@
-Complete Datasets for: [“Predicting the Mechanical Properties of Zeolite Frameworks by Machine Learning”](https://doi.org/10.1021/acs.chemmater.7b02532), J. D. Evans, and F.-X. Coudert, _Chem. Mater._, **2017**, 29, 7833–7839, DOI: [10.1021/acs.chemmater.7b02532](https://doi.org/10.1021/acs.chemmater.7b02532)
+Complete datasets for: [“Predicting the Mechanical Properties of Zeolite Frameworks by Machine Learning”](https://doi.org/10.1021/acs.chemmater.7b02532), J. D. Evans, and F.-X. Coudert, _Chem. Mater._, **2017**, 29, 7833–7839, DOI: [10.1021/acs.chemmater.7b02532](https://doi.org/10.1021/acs.chemmater.7b02532)
 
 This paper was first posted as a [preprint on chemRxiv](https://doi.org/10.26434/chemrxiv.5349151.v1)
 
