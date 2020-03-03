@@ -2,7 +2,7 @@ Complete datasets for: [“Predicting the Mechanical Properties of Zeolite Frame
 
 This paper was first posted as a [preprint on chemRxiv](https://doi.org/10.26434/chemrxiv.5349151.v1)
 
-Example of python scripts for learning a GBR model are hosted at the [GitHub repository](https://github.com/fxcoudert/citable-data/tree/master/090-Evans_ChemMater_2017) repository of F.-X. Coudert.
+Example of python scripts for learning a GBR model are hosted at the [GitHub repository](https://github.com/fxcoudert/citable-data/tree/master/090-Evans_ChemMater_2017) of F.-X. Coudert.
 
 **Datasets:**
 
