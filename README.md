@@ -2,6 +2,8 @@ Complete datasets for: [“Predicting the Mechanical Properties of Zeolite Frame
 
 This paper was first posted as a [preprint on chemRxiv](https://doi.org/10.26434/chemrxiv.5349151.v1)
 
+Example of python scripts for learning a GBR model are hosted at the [GitHub repository](https://github.com/fxcoudert/citable-data/tree/master/090-Evans_ChemMater_2017) repository of F.-X. Coudert.
+
 **Datasets:**
 
 - [`dft_trainingset.csv`](datasets/dft_trainingset.csv): DFT training set used to learn the predictive model from [F.-X. Coudert, _Phys. Chem. Chem. Phys._, **2013**, 15, 16012–16018.](https://doi.org/10.1039/C3CP51817E) including values predicted from the machine learning model.
